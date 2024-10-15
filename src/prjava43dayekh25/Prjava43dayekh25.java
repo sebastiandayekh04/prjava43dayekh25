@@ -23,8 +23,8 @@ public class Prjava43dayekh25 extends Frame
       btnCount.addActionListener(this);
       addWindowListener(this);
 
-      setTitle("nova finestra prjava43dayekh25");  // Títol modificat
-      setSize(450, 100);                          // Mida de la finestra modificada
+      setTitle("nova finestra prjava43dayekh25");  
+      setSize(450, 100);                          
       setVisible(true);
    }
 
