@@ -1,5 +1,5 @@
 package prjava43dayekh25;
-import java.awt.*;       
+import java.awt.*;        
 import java.awt.event.*;  
 
 public class Prjava43dayekh25 extends Frame
@@ -23,8 +23,8 @@ public class Prjava43dayekh25 extends Frame
       btnCount.addActionListener(this);
       addWindowListener(this);
 
-      setTitle("prjava43dayekh25");
-      setSize(250, 100);
+      setTitle("nova finestra prjava43dayekh25");  // Títol modificat
+      setSize(450, 100);                          // Mida de la finestra modificada
       setVisible(true);
    }
 
