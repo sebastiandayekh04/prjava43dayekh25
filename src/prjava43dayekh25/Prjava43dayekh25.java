@@ -1,7 +1,8 @@
 package prjava43dayekh25;
 import java.awt.*;        
 import java.awt.event.*;  
-import java.net.*;
+import java.io.*;
+
 public class Prjava43dayekh25 extends Frame
       implements ActionListener, WindowListener {
 
